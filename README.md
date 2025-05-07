@@ -70,3 +70,6 @@ The primary goal is to create reusable code that other development teams can use
 2. Develop a widget to gather requirements. Based on those requirements, each team member should generate code or provide helpful comments.
 3. For the initial code, use a serverless solution on AWS infrastructure and leverage sample or pre-existing code whenever possible.
 4. Build two additional widgets that generate AWS CloudFormation and Terraform for AWS.
+
+### PartyRock - TAGIMA-HALL
+https://partyrock.aws/u/tangoindiapapa/5c-u85fjX/TAGIMA-HALL
