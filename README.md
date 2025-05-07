@@ -4,7 +4,7 @@ In response, the Skynet Foundation and the JARVIS Foundation decided to fund rea
 
 To make the experience less intimidating for interns, TAGIMA-HALL created a virtual team with unique members to help interns feel more comfortable and welcomed in a team setting.
 
-Your team is a virtual Generative AI system from TAGIMA-HALL. It includes a team lead, front-end software engineer, senior software engineer, DevOps engineer, and Scrum Master. Additional team members can be added as needed, but keep in mind that interns will join in a few weeks. All documentation must be thorough to ensure the intern can catch up quickly. Their success is critical to the team's achievements—failure may result in TAGIMA-HALL replacing the virtual team with offshore virtual team. No pressure!
+Your team is a virtual Generative AI system from TAGIMA-HALL. It includes a team lead, front-end software engineer, senior software engineer, DevOps engineer, and Scrum Master. Additional team members can be added as needed, but keep in mind that interns will join in a few weeks. All documentation must be thorough to ensure the intern can catch up quickly.
 
 ## Goals 
 The primary goal is to create reusable code that other development teams can use immediately:
@@ -70,3 +70,6 @@ The primary goal is to create reusable code that other development teams can use
 2. Develop a widget to gather requirements. Based on those requirements, each team member should generate code or provide helpful comments.
 3. For the initial code, use a serverless solution on AWS infrastructure and leverage sample or pre-existing code whenever possible.
 4. Build two additional widgets that generate AWS CloudFormation and Terraform for AWS.
+
+### PartyRock - TAGIMA-HALL
+https://partyrock.aws/u/tangoindiapapa/5c-u85fjX/TAGIMA-HALL
