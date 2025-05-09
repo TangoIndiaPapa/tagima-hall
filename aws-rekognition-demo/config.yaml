@@ -1,0 +1,8 @@
+aws:
+  bucket_name: "intern-rekognition-yourname123"  # Replace YOUR_NAME
+  region: "us-east-1"
+  test_image_prefix: "test-images/"
+  bedrock:
+    model_id: "stability.stable-diffusion-xl-v1"
+logging:
+  level: "INFO"
